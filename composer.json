@@ -1,9 +1,10 @@
 {
     "name": "laravelrotebal/nova-katex",
-    "description": "A Laravel Nova field.",
+    "description": "A Laravel Nova Katex field.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "katex"
     ],
     "license": "MIT",
     "require": {
