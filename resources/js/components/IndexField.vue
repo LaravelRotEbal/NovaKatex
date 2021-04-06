@@ -6,6 +6,7 @@
 
 <script>
 import KatexElement from './KatexElement'
+import "katex/contrib/mhchem/mhchem"
 
 export default {
 

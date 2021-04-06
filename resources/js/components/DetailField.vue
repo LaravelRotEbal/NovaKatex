@@ -10,6 +10,7 @@
 //    import Vue from 'vue';
 //    import VueKatex from 'vue-katex';
     import KatexElement from './KatexElement'
+    import "katex/contrib/mhchem/mhchem"
 
 
 //import { KatexElement } from "vue-katex";
