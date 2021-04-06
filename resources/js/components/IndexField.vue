@@ -17,3 +17,7 @@ export default {
 }
 </script>
 
+
+<style lang="sass">
+    @import "../../../node_modules/katex/dist/katex.min.css"
+</style>
